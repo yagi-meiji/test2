@@ -5,5 +5,5 @@ jdk:
 
 sudo: false
 
-script
+script:
     - ./gradlew clean build
